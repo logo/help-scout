@@ -3,7 +3,7 @@
   "name": "help-scout",
   "repo": "logo/help-scout",
   "description": "The Help Scout logo.",
-  "version": "0.0.2",
+  "version": "0.2.0",
   "license": "MIT",
   "styles": [
     "style.css"
